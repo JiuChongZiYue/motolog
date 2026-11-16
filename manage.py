@@ -3,6 +3,10 @@
 import os
 import sys
 
+# one line short cut for git: 
+
+# git add . && git commit -m "  " && git push
+
 # # 1. Make changes to your code
 
 # # 2. Check which files changed
