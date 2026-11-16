@@ -3,6 +3,20 @@
 import os
 import sys
 
+# # 1. Make changes to your code
+
+# # 2. Check which files changed
+# git status
+
+# # 3. Stage changes
+# git add .
+
+# # 4. Commit changes
+# git commit -m "Describe what you changed"
+
+# # 5. Upload changes to GitHub
+# git push
+
 
 def main():
     """Run administrative tasks."""
